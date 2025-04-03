@@ -1,0 +1,127 @@
+#+title: From Big Idea to Prototype: A Challenge-Based Learning Framework for Hackathons in Higher Education 
+#+author: Efraín Ortíz-Pabón, Lady Fernández-Mora, Nestor A. Nova-Arévalo, *Juan E. Gómez-Morantes*
+
+# Configuración básica
+#+reveal_root: https://cdn.jsdelivr.net/gh/hakimel/reveal.js@4.1.2/
+#+reveal_version: 4
+#+reveal_hlevel: 2
+#+language: es
+#+reveal_theme: white 
+#+options: toc:nil num:nil reveal_width:1600 reveal_height:900 reveal_margin:0.1 reveal_minScale:0.2 reveal_maxScale:2.5 reveal_transition:'cube' reveal_history:true date:nil reveal_embed_local_resources:t
+#+reveal_extra_css: https://cdn.jsdelivr.net/gh/baracunatana/re-reveal-estilos/j-oer-re-reveal.css
+
+#+reveal_extra_css: puj.css
+
+#+REVEAL_TITLE_SLIDE: <section class="title-slide">                <div class="title-left"><img src="logo_puj.png" alt="Pontificia Universidad Javeriana"></div><div class="title-right"><h1>%t</h1><h2>%a</h2><p>%d</p></div></section>
+
+* What are Hackathons and What is Their Role in Higher Education?
+#+attr_html: :height 600 
+[[file:hackathon.png]]
+
+* Why Challenge-Based Learning (CBL)?
++ CBL focuses on real-world problems and fosters *deep engagement*
++ Promotes student reflection, *collaboration*, and innovation
+
+* CBL vs Hackathons
+#+begin_coliz
+[[file:cbl.png]]
+#+end_coliz
+
+#+begin_colde
++ Hackathons: intense, short-term creation, technical focus
++ CBL: long-term, authentic challenge, socio-technical scope 
++ Combine them for interdisciplinary, real-world projects
+#+end_colde
+
+* How?
+#+attr_html: :height 600 
+[[file:food.png]]
+
+* Hack4CBL Framework Overview
+#+attr_html: :height 600 
+[[file:hack4cbl.png]]
+
+* Hack4CBL: Pre-Hackathon Stage
+#+begin_coliz60
+[[file:hack4cbl.png]]
+#+end_coliz60
+
+#+begin_colde40
++ Define the Big Idea + real-world stakeholders
++ Form interdisciplinary teams, clarify learning outcomes
++ Domain exploration with domain experts
+#+end_colde40
+
+* Hack4CBL: The Hackathon Stage
+#+begin_coliz60
+[[file:hack4cbl.png]]
+#+end_coliz60
+
+#+begin_colde40
++ Iterative design & prototyping (MVPs 0.0 > 1.0 > 2.0)
++ Frequent feedback from mentors & industry experts
+#+end_colde40
+
+* Hack4CBL: Post-Hackathon & Transfer
+#+begin_coliz60
+[[file:hack4cbl.png]]
+#+end_coliz60
+
+#+begin_colde40
++ Evaluations: pitch demos & simulated investments
++ Awards, final reflections, potential follow-up projects
+#+end_colde40
+
+* Case Study
++ Bi-national hackathon: Colombia & Costa Rica
++ 210 students, multiple disciplines (tourism, business, engineering, international relations)
+  
+* Implementation Highlights
++ The Big Idea: Tourism 4.0.
++ Pre-hackathon: 6 weeks exploration + domain webinars.
++ Hackathon: 2 months with continuous expert input.
++ Post-Hackathon: 2 weeks for pitches and a two-round evaluation panel
+ 
+* Challenge examples (out of 17 total)
+#+attr_html: :style font-size: 70%;
+#+begin_quote
+How can entrance tickets to points of interest be purchased, regardless of the type of user or payment method, while ensuring that each user contributes and receives the value they deserve? The scope should cover various points of interest such as museums, theme parks, ecological parks, national parks, etc.
+#+end_quote
+
+#+attr_html: :style font-size: 70%;
+#+begin_quote
+Technological solutions are needed to promote the care and preservation of ecosystems and endangered flora and fauna species.
+#+end_quote
+
+#+attr_html: :style font-size: 70%;
+#+begin_quote
+Technological tourism solutions are needed to facilitate the adoption of technologies by tourism companies, transforming a tourist destination into a smart destination. Those interested in this challenge are expected to improve a video game developed in Unity that presents the facilities of the AWAQ BioPark, benefiting local tourism by offering a detailed, educational, and sustainable interactive experience.
+#+end_quote
+
+* Inside the Hackathon: Tools & Collaboration
++ Frequent video conferencing with MS Teams
++ Held bi-weekly virtual webinars for domain insights and agile feedback.
++ *Student project managers* oversaw scheduling, quality control, and conflict resolution
+
+* Project evaluation
++ Two rounds of simulated investing
++ Teams with the most ammount of investment funds wins
+
+#+begin_colde
+#+attr_html: :height 500
+[[file:prem1.jpeg]]
+#+end_colde
+
+#+begin_coliz
+#+attr_html: :height 500
+[[file:prem2.jpeg]]
+#+end_coliz
+
+* Lessons Learned & Recommendations
++ Multi-LO environment: different disciplines, one project.
++ Student-led management develops real leadership & soft skills.
++ Mentoring & conflict resolution crucial for smoother collaboration.
+
+* +Future+ Current work
+#+attr_html: :width 600
+[[https://ingenieria.javeriana.edu.co/hackathon][file:qr.png]]
